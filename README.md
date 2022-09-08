@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vfisher21
-- 👀 I’m interested in computational approaches to understanding psychotic symptoms
+- 👀 I’m interested in computational approaches for understanding psychotic symptoms
 - 🌱 I’m currently learning Python and developing my skills in MATLAB and R
 - 📫 Reach me at victoria.fisher@yale.edu
 
