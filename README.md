@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vfisher21
 - 👀 I’m interested in computational approaches for understanding psychotic symptoms
 - 🌱 I’m currently learning Python and developing my skills in MATLAB and R
-- 📫 Reach me at victoria.fisher@yale.edu
+- 📫 Reach me at vlf2109@cumc.columbia.edu
 
 <!---
 vfisher21/vfisher21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
